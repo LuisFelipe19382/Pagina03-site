@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to left, rgb(184, 188, 232), rgb(239, 228, 176));
+
+}
+
+main{
+    background-color:  rgb(237, 228, 228);
+    width: 1500px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+#titulo
+{ font-size: 4em;
+    background-color: rgb(178, 184, 231);
+    padding: 25px;
+ text-align: center;
+ text-shadow: 15px 15px 15px rgb(7, 7, 73);
+}
+
+body{
+    background-color: rgb(228, 227, 239);
+}
+h1{color: rgb(17, 17, 51);}
+#paragrafo1 {font-size: 50px;}
